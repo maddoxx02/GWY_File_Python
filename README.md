@@ -1,6 +1,6 @@
 # GWY_File_Python
 Python code & scripts for data extraction from Gwyddion files into folder format
-
+***PYTHON Version = 2.7***
 - 2D_Images
   - Gwyddion.Net Color Scheme (.png)
   - GrayScale Color Scheme (.png)
